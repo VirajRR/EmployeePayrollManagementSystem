@@ -1,0 +1,37 @@
+
+--- Employee Payroll Management ---
+1. Add Employee
+2. View Employee Payroll
+3. View All Employees
+4. Exit
+Enter your choice: 1
+Enter Employee ID: 1
+Enter Name: Viraj
+Enter Designation: Web Developer
+Enter Basic Salary: 80000
+? Employee Added & Salary Calculated!
+
+--- Employee Payroll Management ---
+1. Add Employee
+2. View Employee Payroll
+3. View All Employees
+4. Exit
+Enter your choice: 2
+Enter Employee ID: 1
+ID: 1, Name: Viraj, Designation: Web Developer, Net Salary: ?95680.0
+
+--- Employee Payroll Management ---
+1. Add Employee
+2. View Employee Payroll
+3. View All Employees
+4. Exit
+Enter your choice: 3
+ID: 1, Name: Viraj, Designation: Web Developer, Net Salary: ?95680.0
+
+--- Employee Payroll Management ---
+1. Add Employee
+2. View Employee Payroll
+3. View All Employees
+4. Exit
+Enter your choice: 4
+Exiting...
